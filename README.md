@@ -1,6 +1,6 @@
 # Yii1 EmSearchField 
 
-EmSearchField - it is a very simple Yii widget. It renderes HTML like:
+EmSearchField - it is a very simple Yii widget. It renderes HTML like this:
 ```html
 <div class="emSearchField">
     <input type="search" value="" name="organization-search" id="organization-search">
