@@ -1,0 +1,11 @@
+.emSearchField {
+    position: relative;
+    height: 2.2em;
+    border: none;
+}
+
+.emSearchField input {
+    position: absolute;
+    width: 100%;    
+    background: white url('../images/chosen-sprite.png') no-repeat 100% -20px;
+}
